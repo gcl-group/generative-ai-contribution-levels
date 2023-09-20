@@ -50,7 +50,7 @@ Involvement Phases: Idea Generation, Summary Creation and Editing, Detail Creati
 ## Comparison Table  
   
 | Level | Idea Generation | Summary Creation and Editing | Detail Creation and Editing | Iterative Improvement | Finalization | Sharing Judgment |  
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |  
 | Lv.0 | Human | Human | Human | Human | Human | Human |  
 | Lv.1 | Generative AI | Human | Human | Human | Human | Human |   
 | Lv.2 | Generative AI | Generative AI | Human | Human | Human | Human |   
@@ -116,7 +116,7 @@ Involvement Phases: Idea Generation, Summary Creation and Editing, Detail Creati
 ## 比較表  
   
 | レベル | アイデア整理 | 概要の作成と修正 | 詳細の作成と修正 | 改善を繰り返す | 完成させる | 共有判断 |  
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |  
 | Lv.0 | 人間 | 人間 | 人間 | 人間 | 人間 | 人間 |  
 | Lv.1 | 生成AI | 人間 | 人間 | 人間 | 人間 | 人間 |   
 | Lv.2 | 生成AI | 生成AI | 人間 | 人間 | 人間 | 人間 |   
